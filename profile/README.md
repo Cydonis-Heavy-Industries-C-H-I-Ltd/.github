@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Logo](https://github.com/Cydonis-Heavy-Industries-C-H-I-Ltd/.github/blob/main/CHI_Ltd.png?raw=true)</br>
-"Tackling life's toughest problems; with science!"</br></br>
+***"Tackling life's toughest problems; with science!"***</br></br>
 
 https://github.com/Cydonis-Heavy-Industries-C-H-I-Ltd/.github/assets/7034131/5b73f8f2-4445-41e0-9bae-4c2ded16b2b7
 <!--
